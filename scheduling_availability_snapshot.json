@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-06-09T00:55:41Z",
+  "generated_at": "2026-06-09T04:56:40Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -14,14 +14,8 @@
       "availability_timezone": "America/New_York",
       "event_type_uuid": "3e761528-3756-4faa-8421-d22c665d61d9",
       "range": {
-        "today": "2026-06-08",
+        "today": "2026-06-09",
         "days": [
-          {
-            "date": "2026-06-08",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-06-09",
             "status": "unavailable",
@@ -976,6 +970,12 @@
             "status": "unavailable",
             "spots": [],
             "invitee_events": []
+          },
+          {
+            "date": "2026-07-24",
+            "status": "unavailable",
+            "spots": [],
+            "invitee_events": []
           }
         ]
       },
@@ -995,14 +995,8 @@
       "availability_timezone": "America/New_York",
       "event_type_uuid": "DCCYVLE7PUGYNL3F",
       "range": {
-        "today": "2026-06-08",
+        "today": "2026-06-09",
         "days": [
-          {
-            "date": "2026-06-08",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-06-09",
             "status": "unavailable",
@@ -2046,6 +2040,12 @@
               }
             ],
             "invitee_events": []
+          },
+          {
+            "date": "2026-07-24",
+            "status": "unavailable",
+            "spots": [],
+            "invitee_events": []
           }
         ]
       },
@@ -2065,14 +2065,8 @@
       "availability_timezone": "America/New_York",
       "event_type_uuid": "EAHZC4HPKOE4MKD4",
       "range": {
-        "today": "2026-06-08",
+        "today": "2026-06-09",
         "days": [
-          {
-            "date": "2026-06-08",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-06-09",
             "status": "unavailable",
@@ -2386,6 +2380,12 @@
           },
           {
             "date": "2026-07-23",
+            "status": "unavailable",
+            "spots": [],
+            "invitee_events": []
+          },
+          {
+            "date": "2026-07-24",
             "status": "unavailable",
             "spots": [],
             "invitee_events": []
@@ -6409,6 +6409,16 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-06-12T09:30:00-07:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-06-12T10:00:00-07:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-06-12T10:30:00-07:00",
                 "invitees_remaining": 1
               },
@@ -6906,19 +6916,8 @@
           },
           {
             "date": "2026-06-09",
-            "status": "available",
-            "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-06-09T20:00:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-06-09T20:25:00-05:00",
-                "invitees_remaining": 1
-              }
-            ],
+            "status": "unavailable",
+            "spots": [],
             "invitee_events": []
           },
           {
