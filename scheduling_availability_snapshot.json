@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-06-11T00:22:24Z",
+  "generated_at": "2026-06-11T04:23:22Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -14,14 +14,8 @@
       "availability_timezone": "America/New_York",
       "event_type_uuid": "3e761528-3756-4faa-8421-d22c665d61d9",
       "range": {
-        "today": "2026-06-10",
+        "today": "2026-06-11",
         "days": [
-          {
-            "date": "2026-06-10",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-06-11",
             "status": "unavailable",
@@ -864,14 +858,8 @@
       "availability_timezone": "America/New_York",
       "event_type_uuid": "DCCYVLE7PUGYNL3F",
       "range": {
-        "today": "2026-06-10",
+        "today": "2026-06-11",
         "days": [
-          {
-            "date": "2026-06-10",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-06-11",
             "status": "unavailable",
@@ -1887,14 +1875,8 @@
       "availability_timezone": "America/New_York",
       "event_type_uuid": "EAHZC4HPKOE4MKD4",
       "range": {
-        "today": "2026-06-10",
+        "today": "2026-06-11",
         "days": [
-          {
-            "date": "2026-06-10",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-06-11",
             "status": "unavailable",
@@ -6598,14 +6580,8 @@
           },
           {
             "date": "2026-06-11",
-            "status": "available",
-            "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-06-11T19:35:00-05:00",
-                "invitees_remaining": 1
-              }
-            ],
+            "status": "unavailable",
+            "spots": [],
             "invitee_events": []
           },
           {
