@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-06-28T12:59:25Z",
+  "generated_at": "2026-06-28T17:00:42Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -8238,24 +8238,8 @@
           },
           {
             "date": "2026-06-29",
-            "status": "available",
-            "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-06-29T08:30:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-06-29T08:55:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-06-29T09:20:00-05:00",
-                "invitees_remaining": 1
-              }
-            ],
+            "status": "unavailable",
+            "spots": [],
             "invitee_events": []
           },
           {
@@ -9776,21 +9760,6 @@
             "date": "2026-06-29",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-06-29T15:00:00+00:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-06-29T16:00:00+00:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-06-29T17:00:00+00:00",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-06-29T18:00:00+00:00",
@@ -15218,16 +15187,6 @@
             "date": "2026-06-29",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-06-29T15:00:00Z",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-06-29T15:30:00Z",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-06-29T19:00:00Z",
