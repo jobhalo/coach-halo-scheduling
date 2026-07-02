@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-07-02T01:21:03Z",
+  "generated_at": "2026-07-02T05:21:58Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -14,14 +14,8 @@
       "availability_timezone": "America/New_York",
       "event_type_uuid": "3e761528-3756-4faa-8421-d22c665d61d9",
       "range": {
-        "today": "2026-07-01",
+        "today": "2026-07-02",
         "days": [
-          {
-            "date": "2026-07-01",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-07-02",
             "status": "unavailable",
@@ -889,14 +883,8 @@
       "availability_timezone": "America/New_York",
       "event_type_uuid": "DCCYVLE7PUGYNL3F",
       "range": {
-        "today": "2026-07-01",
+        "today": "2026-07-02",
         "days": [
-          {
-            "date": "2026-07-01",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-07-02",
             "status": "unavailable",
@@ -1796,14 +1784,8 @@
       "availability_timezone": "America/New_York",
       "event_type_uuid": "EAHZC4HPKOE4MKD4",
       "range": {
-        "today": "2026-07-01",
+        "today": "2026-07-02",
         "days": [
-          {
-            "date": "2026-07-01",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-07-02",
             "status": "unavailable",
@@ -2071,39 +2053,8 @@
         "days": [
           {
             "date": "2026-07-01",
-            "status": "available",
-            "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-07-01T20:30:00-07:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-01T21:00:00-07:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-01T21:30:00-07:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-01T22:00:00-07:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-01T22:30:00-07:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-01T23:00:00-07:00",
-                "invitees_remaining": 1
-              }
-            ],
+            "status": "unavailable",
+            "spots": [],
             "invitee_events": []
           },
           {
@@ -2116,21 +2067,6 @@
             "date": "2026-07-06",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-07-06T09:00:00-07:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-06T09:30:00-07:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-06T10:00:00-07:00",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-07-06T10:30:00-07:00",
@@ -5992,7 +5928,7 @@
       "availability_timezone": "America/Chicago",
       "event_type_uuid": "c6fa0b28-f73e-4b93-9f5c-41b2150319ad",
       "range": {
-        "today": "2026-07-01",
+        "today": "2026-07-02",
         "days": [
           {
             "date": "2026-07-20",
@@ -7472,6 +7408,16 @@
               },
               {
                 "status": "available",
+                "start_time": "2026-07-07T13:30:00-07:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-07-07T14:00:00-07:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-07-07T16:30:00-07:00",
                 "invitees_remaining": 1
               }
@@ -7832,14 +7778,8 @@
       "availability_timezone": "America/Chicago",
       "event_type_uuid": null,
       "range": {
-        "today": "2026-07-01",
+        "today": "2026-07-02",
         "days": [
-          {
-            "date": "2026-07-01",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-07-02",
             "status": "unavailable",
@@ -9307,6 +9247,53 @@
               {
                 "status": "available",
                 "start_time": "2026-08-14T09:20:00-05:00",
+                "invitees_remaining": 1
+              }
+            ],
+            "invitee_events": []
+          },
+          {
+            "date": "2026-08-15",
+            "status": "available",
+            "spots": [
+              {
+                "status": "available",
+                "start_time": "2026-08-15T08:30:00-05:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-08-15T08:55:00-05:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-08-15T09:20:00-05:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-08-15T09:45:00-05:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-08-15T10:10:00-05:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-08-15T10:35:00-05:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-08-15T11:00:00-05:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-08-15T11:25:00-05:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11006,12 +10993,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-07-03T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-07-03T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-07-03T08:15+02:00",
+                "start_time": "2026-07-03T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11023,22 +11015,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-07-04T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-07-04T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-07-04T08:15+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-04T18:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-04T19:15+02:00",
+                "start_time": "2026-07-04T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11050,22 +11037,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-07-05T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-07-05T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-07-05T08:15+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-05T18:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-05T19:15+02:00",
+                "start_time": "2026-07-05T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11077,12 +11059,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-07-06T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-07-06T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-07-06T08:15+02:00",
+                "start_time": "2026-07-06T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11094,12 +11081,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-07-07T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-07-07T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-07-07T08:15+02:00",
+                "start_time": "2026-07-07T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11111,12 +11103,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-07-08T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-07-08T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-07-08T08:15+02:00",
+                "start_time": "2026-07-08T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11128,12 +11125,32 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-07-09T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-07-09T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-07-09T08:15+02:00",
+                "start_time": "2026-07-09T08:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-07-09T16:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-07-09T17:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-07-09T18:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11145,12 +11162,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-07-10T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-07-10T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-07-10T08:15+02:00",
+                "start_time": "2026-07-10T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11162,22 +11184,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-07-11T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-07-11T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-07-11T08:15+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-11T18:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-11T19:15+02:00",
+                "start_time": "2026-07-11T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11189,22 +11206,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-07-12T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-07-12T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-07-12T08:15+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-12T18:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-12T19:15+02:00",
+                "start_time": "2026-07-12T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11216,12 +11228,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-07-13T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-07-13T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-07-13T08:15+02:00",
+                "start_time": "2026-07-13T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11233,12 +11250,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-07-14T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-07-14T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-07-14T08:15+02:00",
+                "start_time": "2026-07-14T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11250,12 +11272,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-07-15T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-07-15T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-07-15T08:15+02:00",
+                "start_time": "2026-07-15T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11267,12 +11294,32 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-07-16T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-07-16T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-07-16T08:15+02:00",
+                "start_time": "2026-07-16T08:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-07-16T16:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-07-16T17:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-07-16T18:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11284,12 +11331,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-07-17T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-07-17T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-07-17T08:15+02:00",
+                "start_time": "2026-07-17T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11301,22 +11353,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-07-18T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-07-18T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-07-18T08:15+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-18T18:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-18T19:15+02:00",
+                "start_time": "2026-07-18T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11328,22 +11375,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-07-19T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-07-19T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-07-19T08:15+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-19T18:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-19T19:15+02:00",
+                "start_time": "2026-07-19T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11355,12 +11397,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-07-20T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-07-20T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-07-20T08:15+02:00",
+                "start_time": "2026-07-20T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11372,12 +11419,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-07-21T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-07-21T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-07-21T08:15+02:00",
+                "start_time": "2026-07-21T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11389,12 +11441,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-07-22T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-07-22T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-07-22T08:15+02:00",
+                "start_time": "2026-07-22T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11406,12 +11463,32 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-07-23T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-07-23T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-07-23T08:15+02:00",
+                "start_time": "2026-07-23T08:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-07-23T16:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-07-23T17:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-07-23T18:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11423,12 +11500,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-07-24T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-07-24T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-07-24T08:15+02:00",
+                "start_time": "2026-07-24T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11440,22 +11522,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-07-25T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-07-25T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-07-25T08:15+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-25T18:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-25T19:15+02:00",
+                "start_time": "2026-07-25T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11467,22 +11544,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-07-26T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-07-26T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-07-26T08:15+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-26T18:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-26T19:15+02:00",
+                "start_time": "2026-07-26T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11494,12 +11566,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-07-27T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-07-27T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-07-27T08:15+02:00",
+                "start_time": "2026-07-27T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11511,12 +11588,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-07-28T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-07-28T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-07-28T08:15+02:00",
+                "start_time": "2026-07-28T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11528,12 +11610,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-07-29T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-07-29T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-07-29T08:15+02:00",
+                "start_time": "2026-07-29T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11545,12 +11632,32 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-07-30T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-07-30T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-07-30T08:15+02:00",
+                "start_time": "2026-07-30T08:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-07-30T16:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-07-30T17:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-07-30T18:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11562,12 +11669,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-07-31T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-07-31T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-07-31T08:15+02:00",
+                "start_time": "2026-07-31T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11579,22 +11691,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-08-01T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-08-01T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-08-01T08:15+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-01T18:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-01T19:15+02:00",
+                "start_time": "2026-08-01T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11606,22 +11713,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-08-02T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-08-02T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-08-02T08:15+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-02T18:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-02T19:15+02:00",
+                "start_time": "2026-08-02T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11633,12 +11735,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-08-03T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-08-03T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-08-03T08:15+02:00",
+                "start_time": "2026-08-03T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11650,12 +11757,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-08-04T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-08-04T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-08-04T08:15+02:00",
+                "start_time": "2026-08-04T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11667,12 +11779,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-08-05T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-08-05T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-08-05T08:15+02:00",
+                "start_time": "2026-08-05T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11680,19 +11797,8 @@
           },
           {
             "date": "2026-08-06",
-            "status": "available",
-            "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-08-06T07:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-06T08:15+02:00",
-                "invitees_remaining": 1
-              }
-            ],
+            "status": "unavailable",
+            "spots": [],
             "invitee_events": []
           },
           {
@@ -11701,12 +11807,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-08-07T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-08-07T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-08-07T08:15+02:00",
+                "start_time": "2026-08-07T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11718,22 +11829,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-08-08T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-08-08T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-08-08T08:15+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-08T18:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-08T19:15+02:00",
+                "start_time": "2026-08-08T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11745,22 +11851,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-08-09T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-08-09T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-08-09T08:15+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-09T18:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-09T19:15+02:00",
+                "start_time": "2026-08-09T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11772,12 +11873,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-08-10T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-08-10T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-08-10T08:15+02:00",
+                "start_time": "2026-08-10T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11789,12 +11895,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-08-11T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-08-11T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-08-11T08:15+02:00",
+                "start_time": "2026-08-11T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11806,12 +11917,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-08-12T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-08-12T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-08-12T08:15+02:00",
+                "start_time": "2026-08-12T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11819,19 +11935,8 @@
           },
           {
             "date": "2026-08-13",
-            "status": "available",
-            "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-08-13T07:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-13T08:15+02:00",
-                "invitees_remaining": 1
-              }
-            ],
+            "status": "unavailable",
+            "spots": [],
             "invitee_events": []
           },
           {
@@ -11840,12 +11945,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-08-14T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-08-14T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-08-14T08:15+02:00",
+                "start_time": "2026-08-14T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11857,22 +11967,17 @@
             "spots": [
               {
                 "status": "available",
+                "start_time": "2026-08-15T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-08-15T07:00+02:00",
                 "invitees_remaining": 1
               },
               {
                 "status": "available",
-                "start_time": "2026-08-15T08:15+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-15T18:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-15T19:15+02:00",
+                "start_time": "2026-08-15T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
@@ -11893,14 +11998,8 @@
       "availability_timezone": "America/New_York",
       "event_type_uuid": null,
       "range": {
-        "today": "2026-07-01",
+        "today": "2026-07-02",
         "days": [
-          {
-            "date": "2026-07-01",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-07-02",
             "status": "unavailable",
@@ -11985,8 +12084,24 @@
           },
           {
             "date": "2026-07-10",
-            "status": "unavailable",
-            "spots": [],
+            "status": "available",
+            "spots": [
+              {
+                "status": "available",
+                "start_time": "2026-07-10T10:00-04:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-07-10T10:45-04:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-07-10T11:30-04:00",
+                "invitees_remaining": 1
+              }
+            ],
             "invitee_events": []
           },
           {
@@ -12195,6 +12310,12 @@
           },
           {
             "date": "2026-08-14",
+            "status": "unavailable",
+            "spots": [],
+            "invitee_events": []
+          },
+          {
+            "date": "2026-08-15",
             "status": "unavailable",
             "spots": [],
             "invitee_events": []
@@ -14704,14 +14825,8 @@
       "availability_timezone": "America/Chicago",
       "event_type_uuid": null,
       "range": {
-        "today": "2026-07-01",
+        "today": "2026-07-02",
         "days": [
-          {
-            "date": "2026-07-01",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-07-02",
             "status": "unavailable",
@@ -15836,6 +15951,12 @@
           },
           {
             "date": "2026-08-14",
+            "status": "unavailable",
+            "spots": [],
+            "invitee_events": []
+          },
+          {
+            "date": "2026-08-15",
             "status": "unavailable",
             "spots": [],
             "invitee_events": []
