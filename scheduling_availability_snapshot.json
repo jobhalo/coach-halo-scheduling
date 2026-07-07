@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-07-07T00:50:35Z",
+  "generated_at": "2026-07-07T04:51:31Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -14,14 +14,8 @@
       "availability_timezone": "America/New_York",
       "event_type_uuid": "3e761528-3756-4faa-8421-d22c665d61d9",
       "range": {
-        "today": "2026-07-06",
+        "today": "2026-07-07",
         "days": [
-          {
-            "date": "2026-07-06",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-07-07",
             "status": "unavailable",
@@ -942,6 +936,12 @@
             "status": "unavailable",
             "spots": [],
             "invitee_events": []
+          },
+          {
+            "date": "2026-08-21",
+            "status": "unavailable",
+            "spots": [],
+            "invitee_events": []
           }
         ]
       },
@@ -961,14 +961,8 @@
       "availability_timezone": "America/New_York",
       "event_type_uuid": "DCCYVLE7PUGYNL3F",
       "range": {
-        "today": "2026-07-06",
+        "today": "2026-07-07",
         "days": [
-          {
-            "date": "2026-07-06",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-07-07",
             "status": "unavailable",
@@ -2027,6 +2021,12 @@
               }
             ],
             "invitee_events": []
+          },
+          {
+            "date": "2026-08-21",
+            "status": "unavailable",
+            "spots": [],
+            "invitee_events": []
           }
         ]
       },
@@ -2046,14 +2046,8 @@
       "availability_timezone": "America/New_York",
       "event_type_uuid": "EAHZC4HPKOE4MKD4",
       "range": {
-        "today": "2026-07-06",
+        "today": "2026-07-07",
         "days": [
-          {
-            "date": "2026-07-06",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-07-07",
             "status": "unavailable",
@@ -2305,6 +2299,12 @@
           },
           {
             "date": "2026-08-20",
+            "status": "unavailable",
+            "spots": [],
+            "invitee_events": []
+          },
+          {
+            "date": "2026-08-21",
             "status": "unavailable",
             "spots": [],
             "invitee_events": []
@@ -8613,19 +8613,8 @@
           },
           {
             "date": "2026-07-07",
-            "status": "available",
-            "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-07-07T20:00:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-07T20:25:00-05:00",
-                "invitees_remaining": 1
-              }
-            ],
+            "status": "unavailable",
+            "spots": [],
             "invitee_events": []
           },
           {
@@ -12817,14 +12806,8 @@
       "availability_timezone": "America/New_York",
       "event_type_uuid": null,
       "range": {
-        "today": "2026-07-06",
+        "today": "2026-07-07",
         "days": [
-          {
-            "date": "2026-07-06",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-07-07",
             "status": "unavailable",
@@ -12893,8 +12876,19 @@
           },
           {
             "date": "2026-07-15",
-            "status": "unavailable",
-            "spots": [],
+            "status": "available",
+            "spots": [
+              {
+                "status": "available",
+                "start_time": "2026-07-15T18:00-04:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-07-15T18:45-04:00",
+                "invitees_remaining": 1
+              }
+            ],
             "invitee_events": []
           },
           {
@@ -13103,6 +13097,12 @@
           },
           {
             "date": "2026-08-19",
+            "status": "unavailable",
+            "spots": [],
+            "invitee_events": []
+          },
+          {
+            "date": "2026-08-20",
             "status": "unavailable",
             "spots": [],
             "invitee_events": []
