@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-07-08T09:18:11Z",
+  "generated_at": "2026-07-08T13:19:10Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -11812,21 +11812,6 @@
             "spots": [
               {
                 "status": "available",
-                "start_time": "2026-07-09T06:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-09T07:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-09T08:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
                 "start_time": "2026-07-09T16:00+02:00",
                 "invitees_remaining": 1
               },
@@ -13134,26 +13119,6 @@
             "date": "2026-07-08",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-07-08T10:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-08T11:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-08T12:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-08T13:00-04:00",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-07-08T14:00-04:00",
@@ -14769,11 +14734,6 @@
             "date": "2026-07-08",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-07-08T10:00:00-07:00",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-07-08T10:30:00-07:00",
