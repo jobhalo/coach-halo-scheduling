@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-07-09T05:32:00Z",
+  "generated_at": "2026-07-09T09:32:59Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -2118,14 +2118,8 @@
       "availability_timezone": "America/Los_Angeles",
       "event_type_uuid": "eff7445d-08e1-4607-b99d-c40c91fcdbc4",
       "range": {
-        "today": "2026-07-08",
+        "today": "2026-07-09",
         "days": [
-          {
-            "date": "2026-07-08",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-07-09",
             "status": "available",
@@ -7550,14 +7544,8 @@
       "availability_timezone": "America/Los_Angeles",
       "event_type_uuid": "c6e3cd49-49c2-491f-8053-12963e8d3212",
       "range": {
-        "today": "2026-07-08",
+        "today": "2026-07-09",
         "days": [
-          {
-            "date": "2026-07-08",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-07-09",
             "status": "available",
@@ -12794,11 +12782,6 @@
             "spots": [
               {
                 "status": "available",
-                "start_time": "2026-07-09T09:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
                 "start_time": "2026-07-09T10:00-04:00",
                 "invitees_remaining": 1
               },
@@ -14380,14 +14363,8 @@
       "availability_timezone": "America/Los_Angeles",
       "event_type_uuid": "9ecf8850-07a3-4dd6-aee1-eb483cf9589f",
       "range": {
-        "today": "2026-07-08",
+        "today": "2026-07-09",
         "days": [
-          {
-            "date": "2026-07-08",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-07-09",
             "status": "available",
