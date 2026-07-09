@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-07-09T09:32:59Z",
+  "generated_at": "2026-07-09T13:33:59Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -26,11 +26,6 @@
             "date": "2026-07-10",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-07-10T07:00:00-04:00",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-07-10T16:00:00-04:00",
@@ -1317,36 +1312,6 @@
             "spots": [
               {
                 "status": "available",
-                "start_time": "2026-08-06T07:00:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-06T07:30:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-06T08:00:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-06T08:30:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-06T09:00:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-06T09:30:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
                 "start_time": "2026-08-06T10:00:00-04:00",
                 "invitees_remaining": 1
               },
@@ -2126,21 +2091,6 @@
             "spots": [
               {
                 "status": "available",
-                "start_time": "2026-07-09T09:00:00-07:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-09T09:30:00-07:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-09T10:00:00-07:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
                 "start_time": "2026-07-09T10:30:00-07:00",
                 "invitees_remaining": 1
               },
@@ -2224,21 +2174,6 @@
               {
                 "status": "available",
                 "start_time": "2026-07-10T12:30:00-07:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-10T17:00:00-07:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-10T17:30:00-07:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-10T18:00:00-07:00",
                 "invitees_remaining": 1
               },
               {
@@ -7552,41 +7487,6 @@
             "spots": [
               {
                 "status": "available",
-                "start_time": "2026-07-09T09:30:00-07:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-09T10:00:00-07:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-09T10:30:00-07:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-09T11:00:00-07:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-09T11:30:00-07:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-09T12:00:00-07:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-09T12:30:00-07:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
                 "start_time": "2026-07-09T13:00:00-07:00",
                 "invitees_remaining": 1
               },
@@ -8260,11 +8160,6 @@
             "date": "2026-07-10",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-07-10T08:30:00-05:00",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-07-10T08:55:00-05:00",
@@ -11459,24 +11354,8 @@
           },
           {
             "date": "2026-07-10",
-            "status": "available",
-            "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-07-10T06:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-10T07:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-10T08:00+02:00",
-                "invitees_remaining": 1
-              }
-            ],
+            "status": "unavailable",
+            "spots": [],
             "invitee_events": []
           },
           {
@@ -12780,26 +12659,6 @@
             "date": "2026-07-09",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-07-09T10:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-09T11:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-09T12:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-09T13:00-04:00",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-07-09T14:00-04:00",
@@ -14369,16 +14228,6 @@
             "date": "2026-07-09",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-07-09T10:00:00-07:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-09T10:30:00-07:00",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-07-09T11:00:00-07:00",
