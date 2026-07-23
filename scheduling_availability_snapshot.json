@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-07-23T09:19:25Z",
+  "generated_at": "2026-07-23T13:20:35Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -26,11 +26,6 @@
             "date": "2026-07-24",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-07-24T07:00:00-04:00",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-07-24T15:30:00-04:00",
@@ -5950,31 +5945,6 @@
             "spots": [
               {
                 "status": "available",
-                "start_time": "2026-07-23T10:00:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-23T10:30:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-23T11:00:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-23T11:30:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-23T12:00:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
                 "start_time": "2026-07-23T12:30:00-05:00",
                 "invitees_remaining": 1
               },
@@ -11557,24 +11527,8 @@
           },
           {
             "date": "2026-07-24",
-            "status": "available",
-            "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-07-24T06:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-24T07:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-24T08:00+02:00",
-                "invitees_remaining": 1
-              }
-            ],
+            "status": "unavailable",
+            "spots": [],
             "invitee_events": []
           },
           {
@@ -13641,11 +13595,6 @@
             "date": "2026-07-23",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-07-23T10:00:00-07:00",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-07-23T10:30:00-07:00",
