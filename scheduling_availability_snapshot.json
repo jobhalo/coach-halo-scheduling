@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-07-30T10:04:13Z",
+  "generated_at": "2026-07-30T14:05:15Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -6420,36 +6420,6 @@
             "spots": [
               {
                 "status": "available",
-                "start_time": "2026-07-30T10:00:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-30T10:30:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-30T11:00:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-30T11:30:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-30T12:00:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-30T12:30:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
                 "start_time": "2026-07-30T16:00:00-05:00",
                 "invitees_remaining": 1
               },
@@ -8864,16 +8834,6 @@
             "date": "2026-07-31",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-07-31T08:30:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-31T08:55:00-05:00",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-07-31T09:20:00-05:00",
@@ -12073,19 +12033,8 @@
           },
           {
             "date": "2026-07-31",
-            "status": "available",
-            "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-07-31T07:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-31T08:00+02:00",
-                "invitees_remaining": 1
-              }
-            ],
+            "status": "unavailable",
+            "spots": [],
             "invitee_events": []
           },
           {
@@ -12981,11 +12930,6 @@
             "date": "2026-07-31",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-07-31T10:00-04:00",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-07-31T10:45-04:00",
@@ -14131,21 +14075,6 @@
             "date": "2026-07-30",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-07-30T10:00:00-07:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-30T10:30:00-07:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-07-30T11:00:00-07:00",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-07-30T11:30:00-07:00",
