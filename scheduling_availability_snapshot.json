@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-08-15T10:25:08Z",
+  "generated_at": "2026-08-15T14:25:47Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -84,11 +84,6 @@
             "date": "2026-08-19",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-08-19T10:30:00-04:00",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-08-19T11:30:00-04:00",
@@ -272,26 +267,6 @@
             "date": "2026-08-25",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-08-25T07:00:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-25T07:30:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-25T08:00:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-25T08:30:00-04:00",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-08-25T11:30:00-04:00",
@@ -6543,21 +6518,6 @@
             "spots": [
               {
                 "status": "available",
-                "start_time": "2026-08-16T08:30:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-16T08:55:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-16T09:20:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
                 "start_time": "2026-08-16T09:45:00-05:00",
                 "invitees_remaining": 1
               },
@@ -8085,19 +8045,8 @@
           },
           {
             "date": "2026-08-16",
-            "status": "available",
-            "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-08-16T07:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-16T08:00+02:00",
-                "invitees_remaining": 1
-              }
-            ],
+            "status": "unavailable",
+            "spots": [],
             "invitee_events": []
           },
           {
@@ -10338,6 +10287,16 @@
               },
               {
                 "status": "available",
+                "start_time": "2026-08-18T17:00:00Z",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-08-18T17:30:00Z",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
                 "start_time": "2026-08-18T18:00:00Z",
                 "invitees_remaining": 1
               },
@@ -10508,21 +10467,6 @@
               {
                 "status": "available",
                 "start_time": "2026-08-24T16:00:00Z",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-24T16:30:00Z",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-24T17:00:00Z",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-24T17:30:00Z",
                 "invitees_remaining": 1
               },
               {
