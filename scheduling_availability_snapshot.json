@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-08-16T06:28:20Z",
+  "generated_at": "2026-08-16T10:28:59Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -8295,11 +8295,6 @@
             "date": "2026-08-17",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-08-17T06:00+02:00",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-08-17T07:00+02:00",
