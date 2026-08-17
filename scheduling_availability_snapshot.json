@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-08-16T22:31:27Z",
+  "generated_at": "2026-08-17T02:32:08Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -18,25 +18,14 @@
         "days": [
           {
             "date": "2026-08-17",
-            "status": "available",
-            "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-08-17T19:00:00-04:00",
-                "invitees_remaining": 1
-              }
-            ],
+            "status": "unavailable",
+            "spots": [],
             "invitee_events": []
           },
           {
             "date": "2026-08-18",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-08-18T15:30:00-04:00",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-08-18T16:00:00-04:00",
@@ -228,16 +217,6 @@
               {
                 "status": "available",
                 "start_time": "2026-08-24T18:00:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-24T18:30:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-24T19:00:00-04:00",
                 "invitees_remaining": 1
               }
             ],
@@ -10410,11 +10389,6 @@
             "date": "2026-08-18",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-08-18T15:00:00Z",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-08-18T17:00:00Z",
