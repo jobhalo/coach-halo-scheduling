@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-08-19T10:41:29Z",
+  "generated_at": "2026-08-19T14:42:11Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -26,11 +26,6 @@
             "date": "2026-08-20",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-08-20T10:00:00-04:00",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-08-20T12:30:00-04:00",
@@ -4359,26 +4354,6 @@
             "spots": [
               {
                 "status": "available",
-                "start_time": "2026-08-19T11:00:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-19T11:30:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-19T12:00:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-19T12:30:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
                 "start_time": "2026-08-19T16:00:00-05:00",
                 "invitees_remaining": 1
               },
@@ -4412,16 +4387,6 @@
               {
                 "status": "available",
                 "start_time": "2026-08-20T10:30:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-20T11:00:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-20T11:30:00-05:00",
                 "invitees_remaining": 1
               },
               {
