@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-08-28T15:34:06Z",
+  "generated_at": "2026-08-28T19:34:43Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -665,6 +665,16 @@
               {
                 "status": "available",
                 "start_time": "2026-09-18T08:30:00-04:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-09-18T15:00:00-04:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-09-18T15:30:00-04:00",
                 "invitees_remaining": 1
               }
             ],
@@ -3843,24 +3853,8 @@
           },
           {
             "date": "2026-08-29",
-            "status": "available",
-            "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-08-29T10:35:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-29T11:00:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-08-29T11:25:00-05:00",
-                "invitees_remaining": 1
-              }
-            ],
+            "status": "unavailable",
+            "spots": [],
             "invitee_events": []
           },
           {
@@ -7131,12 +7125,7 @@
               },
               {
                 "status": "available",
-                "start_time": "2026-09-01T15:30:00Z",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-09-01T16:00:00Z",
+                "start_time": "2026-09-01T14:30:00Z",
                 "invitees_remaining": 1
               },
               {
