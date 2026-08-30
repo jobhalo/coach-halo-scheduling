@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-08-30T11:40:34Z",
+  "generated_at": "2026-08-30T15:41:05Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -2148,8 +2148,19 @@
           },
           {
             "date": "2026-09-22",
-            "status": "unavailable",
-            "spots": [],
+            "status": "available",
+            "spots": [
+              {
+                "status": "available",
+                "start_time": "2026-09-22T08:30:00-04:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-09-22T09:00:00-04:00",
+                "invitees_remaining": 1
+              }
+            ],
             "invitee_events": []
           },
           {
@@ -2168,11 +2179,6 @@
             "date": "2026-09-25",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-09-25T09:30:00-04:00",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-09-25T10:00:00-04:00",
@@ -2241,11 +2247,6 @@
             "date": "2026-10-02",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-10-02T09:30:00-04:00",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-10-02T10:00:00-04:00",
@@ -2323,11 +2324,6 @@
             "date": "2026-10-09",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-10-09T09:30:00-04:00",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-10-09T10:00:00-04:00",
@@ -5344,14 +5340,8 @@
           },
           {
             "date": "2026-08-31",
-            "status": "available",
-            "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-08-31T08:00+02:00",
-                "invitees_remaining": 1
-              }
-            ],
+            "status": "unavailable",
+            "spots": [],
             "invitee_events": []
           },
           {
