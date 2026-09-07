@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-06T21:32:00Z",
+  "generated_at": "2026-09-07T01:32:31Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -2422,16 +2422,6 @@
                 "status": "available",
                 "start_time": "2026-10-02T15:00:00-04:00",
                 "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-02T15:30:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-02T16:00:00-04:00",
-                "invitees_remaining": 1
               }
             ],
             "invitee_events": []
@@ -4289,24 +4279,8 @@
           },
           {
             "date": "2026-09-07",
-            "status": "available",
-            "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-09-07T19:30:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-09-07T19:55:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-09-07T20:20:00-05:00",
-                "invitees_remaining": 1
-              }
-            ],
+            "status": "unavailable",
+            "spots": [],
             "invitee_events": []
           },
           {
@@ -5600,14 +5574,8 @@
       "availability_timezone": "Europe/Berlin",
       "event_type_uuid": null,
       "range": {
-        "today": "2026-09-06",
+        "today": "2026-09-07",
         "days": [
-          {
-            "date": "2026-09-06",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-09-07",
             "status": "unavailable",
@@ -6583,6 +6551,28 @@
               {
                 "status": "available",
                 "start_time": "2026-10-20T08:00+02:00",
+                "invitees_remaining": 1
+              }
+            ],
+            "invitee_events": []
+          },
+          {
+            "date": "2026-10-21",
+            "status": "available",
+            "spots": [
+              {
+                "status": "available",
+                "start_time": "2026-10-21T06:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-10-21T07:00+02:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-10-21T08:00+02:00",
                 "invitees_remaining": 1
               }
             ],
