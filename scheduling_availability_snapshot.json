@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-10T21:46:10Z",
+  "generated_at": "2026-09-11T01:46:47Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -5503,14 +5503,8 @@
       "availability_timezone": "Europe/Berlin",
       "event_type_uuid": null,
       "range": {
-        "today": "2026-09-10",
+        "today": "2026-09-11",
         "days": [
-          {
-            "date": "2026-09-10",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-09-11",
             "status": "unavailable",
@@ -6517,6 +6511,28 @@
               {
                 "status": "available",
                 "start_time": "2026-10-24T08:00+02:00",
+                "invitees_remaining": 1
+              }
+            ],
+            "invitee_events": []
+          },
+          {
+            "date": "2026-10-25",
+            "status": "available",
+            "spots": [
+              {
+                "status": "available",
+                "start_time": "2026-10-25T06:00+01:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-10-25T07:00+01:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-10-25T08:00+01:00",
                 "invitees_remaining": 1
               }
             ],
@@ -7647,31 +7663,6 @@
                 "status": "available",
                 "start_time": "2026-09-14T17:30:00Z",
                 "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-09-14T18:00:00Z",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-09-14T18:30:00Z",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-09-14T19:00:00Z",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-09-14T19:30:00Z",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-09-14T20:00:00Z",
-                "invitees_remaining": 1
               }
             ],
             "invitee_events": []
@@ -7789,16 +7780,6 @@
               },
               {
                 "status": "available",
-                "start_time": "2026-09-16T17:30:00Z",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-09-16T18:00:00Z",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
                 "start_time": "2026-09-16T18:30:00Z",
                 "invitees_remaining": 1
               },
@@ -7867,16 +7848,6 @@
               {
                 "status": "available",
                 "start_time": "2026-09-17T17:00:00Z",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-09-17T17:30:00Z",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-09-17T18:00:00Z",
                 "invitees_remaining": 1
               }
             ],
@@ -8066,16 +8037,6 @@
               {
                 "status": "available",
                 "start_time": "2026-09-23T17:00:00Z",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-09-23T17:30:00Z",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-09-23T18:00:00Z",
                 "invitees_remaining": 1
               },
               {
