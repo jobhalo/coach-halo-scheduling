@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-12T04:18:06Z",
+  "generated_at": "2026-09-12T04:52:31Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -795,6 +795,9 @@
       "lookup_name": "30 Minute Meeting",
       "airtable_record_id": "recsse6OHYIt624QR",
       "conversion_count": 2,
+      "conversion_last_month": 1,
+      "conversion_3mo": 4,
+      "pay_tier": "high",
       "conversion_month": "2026-09"
     },
     {
@@ -2007,6 +2010,9 @@
       "lookup_name": "Discovery Session",
       "airtable_record_id": "recMugaEC2yqI2A0s",
       "conversion_count": 0,
+      "conversion_last_month": 0,
+      "conversion_3mo": 0,
+      "pay_tier": "high",
       "conversion_month": "2026-09"
     },
     {
@@ -2296,6 +2302,9 @@
       "lookup_name": "Free Consultation",
       "airtable_record_id": "recjPdC4vlEjJ96Xh",
       "conversion_count": 0,
+      "conversion_last_month": 0,
+      "conversion_3mo": 0,
+      "pay_tier": "low",
       "conversion_month": "2026-09"
     },
     {
@@ -4189,6 +4198,9 @@
       "lookup_name": "Discovery Call in Sp, English or French ",
       "airtable_record_id": "reckHi2iLQw8tGr5L",
       "conversion_count": 2,
+      "conversion_last_month": 1,
+      "conversion_3mo": 3,
+      "pay_tier": "high",
       "conversion_month": "2026-09"
     },
     {
@@ -5522,6 +5534,9 @@
       "skip_reason": null,
       "airtable_record_id": "recknhqT4WSlXYkeE",
       "conversion_count": 0,
+      "conversion_last_month": 0,
+      "conversion_3mo": 1,
+      "pay_tier": "low",
       "conversion_month": "2026-09"
     },
     {
@@ -6575,6 +6590,9 @@
       "skip_reason": null,
       "airtable_record_id": "rec1m3Xu6scfMDz1E",
       "conversion_count": 0,
+      "conversion_last_month": 0,
+      "conversion_3mo": 0,
+      "pay_tier": "high",
       "conversion_month": "2026-09"
     },
     {
@@ -7665,6 +7683,9 @@
       "skip_reason": null,
       "airtable_record_id": "rec9H4gBx3QjyMLgw",
       "conversion_count": 0,
+      "conversion_last_month": 1,
+      "conversion_3mo": 2,
+      "pay_tier": "high",
       "conversion_month": "2026-09"
     },
     {
@@ -8840,19 +8861,25 @@
       "skip_reason": null,
       "airtable_record_id": "recaXhJsxefzwMxng",
       "conversion_count": 0,
+      "conversion_last_month": 0,
+      "conversion_3mo": 0,
+      "pay_tier": "low",
       "conversion_month": "2026-09"
     }
   ],
   "conversions": {
     "month": "2026-09",
     "timezone": "America/Los_Angeles",
-    "generated_at": "2026-09-12T04:18:33Z",
-    "definition": "Selected by Coachee this calendar month (all sources)",
+    "generated_at": "2026-09-12T04:53:01Z",
+    "definition": "Selected by Coachee this / last / trailing 3 calendar months (all sources)",
     "counts": [
       {
         "name": "Denise Foss",
         "airtable_record_id": "recsse6OHYIt624QR",
         "conversion_count": 2,
+        "conversion_last_month": 1,
+        "conversion_3mo": 4,
+        "pay_tier": "high",
         "sources": {
           "Job-Halo": 2
         }
@@ -8861,6 +8888,9 @@
         "name": "Annette Lagunes",
         "airtable_record_id": "reckHi2iLQw8tGr5L",
         "conversion_count": 2,
+        "conversion_last_month": 1,
+        "conversion_3mo": 3,
+        "pay_tier": "high",
         "sources": {
           "Thumbtack": 2
         }
@@ -8869,11 +8899,25 @@
         "name": "Yacine Nedjam",
         "airtable_record_id": "recA9xC0KWXwwZjsX",
         "conversion_count": 1,
+        "conversion_last_month": 0,
+        "conversion_3mo": 1,
+        "pay_tier": "low",
         "sources": {
           "Job-Halo": 1
         }
       }
     ],
+    "pay_by_record_id": {
+      "rec1m3Xu6scfMDz1E": "high",
+      "rec9H4gBx3QjyMLgw": "high",
+      "recA9xC0KWXwwZjsX": "low",
+      "recMugaEC2yqI2A0s": "high",
+      "recaXhJsxefzwMxng": "low",
+      "recjPdC4vlEjJ96Xh": "low",
+      "reckHi2iLQw8tGr5L": "high",
+      "recknhqT4WSlXYkeE": "low",
+      "recsse6OHYIt624QR": "high"
+    },
     "unmatched": {}
   }
 }
