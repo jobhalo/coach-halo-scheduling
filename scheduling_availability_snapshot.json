@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-12T01:02:27Z",
+  "generated_at": "2026-09-12T04:07:32Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -14,14 +14,8 @@
       "availability_timezone": "America/New_York",
       "event_type_uuid": "3e761528-3756-4faa-8421-d22c665d61d9",
       "range": {
-        "today": "2026-09-11",
+        "today": "2026-09-12",
         "days": [
-          {
-            "date": "2026-09-11",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-09-15",
             "status": "available",
@@ -785,6 +779,12 @@
             "status": "unavailable",
             "spots": [],
             "invitee_events": []
+          },
+          {
+            "date": "2026-10-27",
+            "status": "unavailable",
+            "spots": [],
+            "invitee_events": []
           }
         ]
       },
@@ -792,7 +792,10 @@
       "skip_reason": null,
       "profile_slug": "createloudlycoaching",
       "event_type_slug": "30min",
-      "lookup_name": "30 Minute Meeting"
+      "lookup_name": "30 Minute Meeting",
+      "airtable_record_id": "recsse6OHYIt624QR",
+      "conversion_count": 2,
+      "conversion_month": "2026-09"
     },
     {
       "id": "jake_randall",
@@ -804,14 +807,8 @@
       "availability_timezone": "America/New_York",
       "event_type_uuid": "DCCYVLE7PUGYNL3F",
       "range": {
-        "today": "2026-09-11",
+        "today": "2026-09-12",
         "days": [
-          {
-            "date": "2026-09-11",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-09-14",
             "status": "unavailable",
@@ -1958,6 +1955,48 @@
               }
             ],
             "invitee_events": []
+          },
+          {
+            "date": "2026-10-27",
+            "status": "available",
+            "spots": [
+              {
+                "status": "available",
+                "start_time": "2026-10-27T10:00:00-04:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-10-27T10:30:00-04:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-10-27T11:00:00-04:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-10-27T11:30:00-04:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-10-27T12:00:00-04:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-10-27T16:30:00-04:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-10-27T17:00:00-04:00",
+                "invitees_remaining": 1
+              }
+            ],
+            "invitee_events": []
           }
         ]
       },
@@ -1965,7 +2004,10 @@
       "skip_reason": null,
       "profile_slug": "wildfreedomfinancialcoaching",
       "event_type_slug": "free-discovery-session",
-      "lookup_name": "Discovery Session"
+      "lookup_name": "Discovery Session",
+      "airtable_record_id": "recMugaEC2yqI2A0s",
+      "conversion_count": 0,
+      "conversion_month": "2026-09"
     },
     {
       "id": "emily",
@@ -1977,14 +2019,8 @@
       "availability_timezone": "America/New_York",
       "event_type_uuid": "EAHZC4HPKOE4MKD4",
       "range": {
-        "today": "2026-09-11",
+        "today": "2026-09-12",
         "days": [
-          {
-            "date": "2026-09-11",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-09-14",
             "status": "unavailable",
@@ -2244,6 +2280,12 @@
             "status": "unavailable",
             "spots": [],
             "invitee_events": []
+          },
+          {
+            "date": "2026-10-27",
+            "status": "unavailable",
+            "spots": [],
+            "invitee_events": []
           }
         ]
       },
@@ -2251,7 +2293,10 @@
       "skip_reason": null,
       "profile_slug": "esteliotes-coaching",
       "event_type_slug": "free-consultation",
-      "lookup_name": "Free Consultation"
+      "lookup_name": "Free Consultation",
+      "airtable_record_id": "recjPdC4vlEjJ96Xh",
+      "conversion_count": 0,
+      "conversion_month": "2026-09"
     },
     {
       "id": "annette",
@@ -4141,7 +4186,10 @@
       "skip_reason": null,
       "profile_slug": "annette-lagunes",
       "event_type_slug": "discovery-call-in-sp-english-or-french",
-      "lookup_name": "Discovery Call in Sp, English or French "
+      "lookup_name": "Discovery Call in Sp, English or French ",
+      "airtable_record_id": "reckHi2iLQw8tGr5L",
+      "conversion_count": 2,
+      "conversion_month": "2026-09"
     },
     {
       "id": "brittany",
@@ -5471,7 +5519,10 @@
         ]
       },
       "availability_status": "ok",
-      "skip_reason": null
+      "skip_reason": null,
+      "airtable_record_id": "recknhqT4WSlXYkeE",
+      "conversion_count": 0,
+      "conversion_month": "2026-09"
     },
     {
       "id": "gary_anello",
@@ -6521,7 +6572,10 @@
         ]
       },
       "availability_status": "ok",
-      "skip_reason": null
+      "skip_reason": null,
+      "airtable_record_id": "rec1m3Xu6scfMDz1E",
+      "conversion_count": 0,
+      "conversion_month": "2026-09"
     },
     {
       "id": "tammi_loper",
@@ -6533,14 +6587,8 @@
       "availability_timezone": "America/New_York",
       "event_type_uuid": null,
       "range": {
-        "today": "2026-09-11",
+        "today": "2026-09-12",
         "days": [
-          {
-            "date": "2026-09-11",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-09-12",
             "status": "unavailable",
@@ -7568,11 +7616,56 @@
             "status": "unavailable",
             "spots": [],
             "invitee_events": []
+          },
+          {
+            "date": "2026-10-26",
+            "status": "available",
+            "spots": [
+              {
+                "status": "available",
+                "start_time": "2026-10-26T12:00-04:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-10-26T13:00-04:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-10-26T14:00-04:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-10-26T15:00-04:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-10-26T16:00-04:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-10-26T17:00-04:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-10-26T18:00-04:00",
+                "invitees_remaining": 1
+              }
+            ],
+            "invitee_events": []
           }
         ]
       },
       "availability_status": "ok",
-      "skip_reason": null
+      "skip_reason": null,
+      "airtable_record_id": "rec9H4gBx3QjyMLgw",
+      "conversion_count": 0,
+      "conversion_month": "2026-09"
     },
     {
       "id": "tanya_scott",
@@ -8744,7 +8837,43 @@
         ]
       },
       "availability_status": "ok",
-      "skip_reason": null
+      "skip_reason": null,
+      "airtable_record_id": "recaXhJsxefzwMxng",
+      "conversion_count": 0,
+      "conversion_month": "2026-09"
     }
-  ]
+  ],
+  "conversions": {
+    "month": "2026-09",
+    "timezone": "America/Los_Angeles",
+    "generated_at": "2026-09-12T04:08:02Z",
+    "definition": "Selected by Coachee this calendar month (all sources)",
+    "counts": [
+      {
+        "name": "Denise Foss",
+        "airtable_record_id": "recsse6OHYIt624QR",
+        "conversion_count": 2,
+        "sources": {
+          "Job-Halo": 2
+        }
+      },
+      {
+        "name": "Annette Lagunes",
+        "airtable_record_id": "reckHi2iLQw8tGr5L",
+        "conversion_count": 2,
+        "sources": {
+          "Thumbtack": 2
+        }
+      },
+      {
+        "name": "Yacine Nedjam",
+        "airtable_record_id": "recA9xC0KWXwwZjsX",
+        "conversion_count": 1,
+        "sources": {
+          "Job-Halo": 1
+        }
+      }
+    ],
+    "unmatched": {}
+  }
 }
