@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-13T20:48:00Z",
+  "generated_at": "2026-09-14T00:48:34Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -4170,11 +4170,6 @@
             "spots": [
               {
                 "status": "available",
-                "start_time": "2026-09-14T19:30:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
                 "start_time": "2026-09-14T19:55:00-05:00",
                 "invitees_remaining": 1
               },
@@ -5483,14 +5478,8 @@
       "availability_timezone": "Europe/Berlin",
       "event_type_uuid": null,
       "range": {
-        "today": "2026-09-13",
+        "today": "2026-09-14",
         "days": [
-          {
-            "date": "2026-09-13",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-09-14",
             "status": "unavailable",
@@ -6497,6 +6486,28 @@
               {
                 "status": "available",
                 "start_time": "2026-10-27T08:00+01:00",
+                "invitees_remaining": 1
+              }
+            ],
+            "invitee_events": []
+          },
+          {
+            "date": "2026-10-28",
+            "status": "available",
+            "spots": [
+              {
+                "status": "available",
+                "start_time": "2026-10-28T06:00+01:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-10-28T07:00+01:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-10-28T08:00+01:00",
                 "invitees_remaining": 1
               }
             ],
@@ -8814,7 +8825,7 @@
   "conversions": {
     "month": "2026-09",
     "timezone": "America/Los_Angeles",
-    "generated_at": "2026-09-13T20:48:29Z",
+    "generated_at": "2026-09-14T00:49:03Z",
     "definition": "Selected by Coachee this / last / trailing 3 calendar months (all sources)",
     "counts": [
       {
