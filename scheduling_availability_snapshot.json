@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-23T11:23:55Z",
+  "generated_at": "2026-09-23T15:24:38Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -93,11 +93,6 @@
             "date": "2026-09-25",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-09-25T15:00:00-04:00",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-09-25T15:30:00-04:00",
@@ -541,8 +536,19 @@
           },
           {
             "date": "2026-10-14",
-            "status": "unavailable",
-            "spots": [],
+            "status": "available",
+            "spots": [
+              {
+                "status": "available",
+                "start_time": "2026-10-14T10:00:00-04:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-10-14T10:30:00-04:00",
+                "invitees_remaining": 1
+              }
+            ],
             "invitee_events": []
           },
           {
@@ -6194,16 +6200,6 @@
             "spots": [
               {
                 "status": "available",
-                "start_time": "2026-09-23T12:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-09-23T13:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
                 "start_time": "2026-09-23T16:00-04:00",
                 "invitees_remaining": 1
               },
@@ -10432,14 +10428,8 @@
         "days": [
           {
             "date": "2026-09-23",
-            "status": "available",
-            "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-09-23T17:30:00+02:00",
-                "invitees_remaining": 1
-              }
-            ],
+            "status": "unavailable",
+            "spots": [],
             "invitee_events": []
           },
           {
@@ -13564,7 +13554,7 @@
   "conversions": {
     "month": "2026-09",
     "timezone": "America/Los_Angeles",
-    "generated_at": "2026-09-23T11:24:32Z",
+    "generated_at": "2026-09-23T15:25:17Z",
     "definition": "Selected by Coachee this / last / trailing 3 calendar months (all sources)",
     "counts": [
       {
