@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-24T11:05:09Z",
+  "generated_at": "2026-09-24T15:05:53Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -700,9 +700,48 @@
             "invitee_events": []
           },
           {
+            "date": "2026-09-28",
+            "status": "available",
+            "spots": [
+              {
+                "status": "available",
+                "start_time": "2026-09-28T09:30:00-04:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-09-28T10:00:00-04:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-09-28T10:30:00-04:00",
+                "invitees_remaining": 1
+              }
+            ],
+            "invitee_events": []
+          },
+          {
             "date": "2026-09-29",
             "status": "unavailable",
             "spots": [],
+            "invitee_events": []
+          },
+          {
+            "date": "2026-09-30",
+            "status": "available",
+            "spots": [
+              {
+                "status": "available",
+                "start_time": "2026-09-30T10:00:00-04:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-09-30T10:30:00-04:00",
+                "invitees_remaining": 1
+              }
+            ],
             "invitee_events": []
           },
           {
@@ -732,41 +771,6 @@
               {
                 "status": "available",
                 "start_time": "2026-10-01T09:00:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-01T09:30:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-01T10:00:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-01T10:30:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-01T11:00:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-01T11:30:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-01T12:00:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-01T12:30:00-04:00",
                 "invitees_remaining": 1
               }
             ],
@@ -5165,14 +5169,8 @@
           },
           {
             "date": "2026-09-25",
-            "status": "available",
-            "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-09-25T08:00+02:00",
-                "invitees_remaining": 1
-              }
-            ],
+            "status": "unavailable",
+            "spots": [],
             "invitee_events": []
           },
           {
@@ -10379,14 +10377,8 @@
         "days": [
           {
             "date": "2026-09-24",
-            "status": "available",
-            "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-09-24T17:30:00+02:00",
-                "invitees_remaining": 1
-              }
-            ],
+            "status": "unavailable",
+            "spots": [],
             "invitee_events": []
           },
           {
@@ -13414,7 +13406,7 @@
   "conversions": {
     "month": "2026-09",
     "timezone": "America/Los_Angeles",
-    "generated_at": "2026-09-24T11:05:48Z",
+    "generated_at": "2026-09-24T15:06:43Z",
     "definition": "Selected by Coachee this / last / trailing 3 calendar months (all sources)",
     "counts": [
       {
