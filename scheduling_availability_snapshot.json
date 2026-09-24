@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-24T15:05:53Z",
+  "generated_at": "2026-09-24T16:58:33Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -8430,41 +8430,6 @@
               },
               {
                 "status": "available",
-                "start_time": "2026-09-29T12:45:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-09-29T13:00:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-09-29T13:15:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-09-29T13:30:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-09-29T13:45:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-09-29T14:00:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-09-29T14:15:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
                 "start_time": "2026-09-29T14:30:00+02:00",
                 "invitees_remaining": 1
               },
@@ -10357,9 +10322,9 @@
       "event_type_slug": "30",
       "lookup_name": "30 Minute FREE Discovery Session",
       "airtable_record_id": "recXjBhaXUD3Zu9xH",
-      "conversion_count": 0,
+      "conversion_count": 1,
       "conversion_last_month": 0,
-      "conversion_3mo": 0,
+      "conversion_3mo": 1,
       "pay_tier": "high",
       "conversion_month": "2026-09"
     },
@@ -13406,7 +13371,7 @@
   "conversions": {
     "month": "2026-09",
     "timezone": "America/Los_Angeles",
-    "generated_at": "2026-09-24T15:06:43Z",
+    "generated_at": "2026-09-24T16:59:12Z",
     "definition": "Selected by Coachee this / last / trailing 3 calendar months (all sources)",
     "counts": [
       {
@@ -13430,6 +13395,17 @@
         "pay_tier": "high",
         "sources": {
           "Thumbtack": 2
+        }
+      },
+      {
+        "name": "Neela Pirwitz",
+        "airtable_record_id": "recXjBhaXUD3Zu9xH",
+        "conversion_count": 1,
+        "conversion_last_month": 0,
+        "conversion_3mo": 1,
+        "pay_tier": "high",
+        "sources": {
+          "Job-Halo": 1
         }
       },
       {
