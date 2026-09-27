@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-27T01:10:41Z",
+  "generated_at": "2026-09-27T03:45:01Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -13881,7 +13881,7 @@
   "conversions": {
     "month": "2026-09",
     "timezone": "America/Los_Angeles",
-    "generated_at": "2026-09-27T01:11:17Z",
+    "generated_at": "2026-09-27T03:45:41Z",
     "definition": "Selected by Coachee this / last / trailing 3 calendar months (all sources)",
     "counts": [
       {
