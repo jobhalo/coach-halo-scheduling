@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-30T23:34:37Z",
+  "generated_at": "2026-10-01T03:35:27Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -4725,24 +4725,8 @@
           },
           {
             "date": "2026-10-01",
-            "status": "available",
-            "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-10-01T19:30:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-01T19:55:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-01T20:20:00-05:00",
-                "invitees_remaining": 1
-              }
-            ],
+            "status": "unavailable",
+            "spots": [],
             "invitee_events": []
           },
           {
@@ -11036,16 +11020,6 @@
             "spots": [
               {
                 "status": "available",
-                "start_time": "2026-10-01T09:00:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-01T09:30:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
                 "start_time": "2026-10-01T10:00:00+02:00",
                 "invitees_remaining": 1
               },
@@ -14152,7 +14126,7 @@
   "conversions": {
     "month": "2026-09",
     "timezone": "America/Los_Angeles",
-    "generated_at": "2026-09-30T23:35:18Z",
+    "generated_at": "2026-10-01T03:36:03Z",
     "definition": "Selected by Coachee this / last / trailing 3 calendar months (all sources)",
     "counts": [
       {
