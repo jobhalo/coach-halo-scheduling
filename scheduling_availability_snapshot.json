@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-01T03:35:27Z",
+  "generated_at": "2026-10-01T07:36:07Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -14,14 +14,8 @@
       "availability_timezone": "America/New_York",
       "event_type_uuid": "3e761528-3756-4faa-8421-d22c665d61d9",
       "range": {
-        "today": "2026-09-30",
+        "today": "2026-10-01",
         "days": [
-          {
-            "date": "2026-09-30",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-10-05",
             "status": "available",
@@ -846,11 +840,11 @@
       "event_type_slug": "30min",
       "lookup_name": "30 Minute Meeting",
       "airtable_record_id": "recsse6OHYIt624QR",
-      "conversion_count": 3,
-      "conversion_last_month": 1,
-      "conversion_3mo": 5,
+      "conversion_count": 0,
+      "conversion_last_month": 3,
+      "conversion_3mo": 4,
       "pay_tier": "high",
-      "conversion_month": "2026-09"
+      "conversion_month": "2026-10"
     },
     {
       "id": "jake_randall",
@@ -862,14 +856,8 @@
       "availability_timezone": "America/New_York",
       "event_type_uuid": "DCCYVLE7PUGYNL3F",
       "range": {
-        "today": "2026-09-30",
+        "today": "2026-10-01",
         "days": [
-          {
-            "date": "2026-09-30",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-10-01",
             "status": "unavailable",
@@ -2082,7 +2070,7 @@
       "conversion_last_month": 0,
       "conversion_3mo": 0,
       "pay_tier": "high",
-      "conversion_month": "2026-09"
+      "conversion_month": "2026-10"
     },
     {
       "id": "emily",
@@ -2094,14 +2082,8 @@
       "availability_timezone": "America/New_York",
       "event_type_uuid": "EAHZC4HPKOE4MKD4",
       "range": {
-        "today": "2026-09-30",
+        "today": "2026-10-01",
         "days": [
-          {
-            "date": "2026-09-30",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-10-01",
             "status": "unavailable",
@@ -2569,7 +2551,7 @@
       "conversion_last_month": 0,
       "conversion_3mo": 0,
       "pay_tier": "low",
-      "conversion_month": "2026-09"
+      "conversion_month": "2026-10"
     },
     {
       "id": "annette",
@@ -2581,7 +2563,7 @@
       "availability_timezone": "America/Chicago",
       "event_type_uuid": "c6fa0b28-f73e-4b93-9f5c-41b2150319ad",
       "range": {
-        "today": "2026-09-30",
+        "today": "2026-10-01",
         "days": [
           {
             "date": "2026-10-01",
@@ -4699,11 +4681,11 @@
       "event_type_slug": "discovery-call-in-sp-english-or-french",
       "lookup_name": "Discovery Call in Sp, English or French ",
       "airtable_record_id": "reckHi2iLQw8tGr5L",
-      "conversion_count": 2,
-      "conversion_last_month": 1,
+      "conversion_count": 0,
+      "conversion_last_month": 2,
       "conversion_3mo": 3,
       "pay_tier": "high",
-      "conversion_month": "2026-09"
+      "conversion_month": "2026-10"
     },
     {
       "id": "brittany",
@@ -4715,14 +4697,8 @@
       "availability_timezone": "America/Chicago",
       "event_type_uuid": null,
       "range": {
-        "today": "2026-09-30",
+        "today": "2026-10-01",
         "days": [
-          {
-            "date": "2026-09-30",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-10-01",
             "status": "unavailable",
@@ -6009,6 +5985,53 @@
               }
             ],
             "invitee_events": []
+          },
+          {
+            "date": "2026-11-14",
+            "status": "available",
+            "spots": [
+              {
+                "status": "available",
+                "start_time": "2026-11-14T08:30:00-06:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-11-14T08:55:00-06:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-11-14T09:20:00-06:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-11-14T09:45:00-06:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-11-14T10:10:00-06:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-11-14T10:35:00-06:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-11-14T11:00:00-06:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-11-14T11:25:00-06:00",
+                "invitees_remaining": 1
+              }
+            ],
+            "invitee_events": []
           }
         ]
       },
@@ -6017,9 +6040,9 @@
       "airtable_record_id": "recknhqT4WSlXYkeE",
       "conversion_count": 0,
       "conversion_last_month": 0,
-      "conversion_3mo": 1,
+      "conversion_3mo": 0,
       "pay_tier": "low",
-      "conversion_month": "2026-09"
+      "conversion_month": "2026-10"
     },
     {
       "id": "gary_anello",
@@ -7106,7 +7129,7 @@
       "conversion_last_month": 0,
       "conversion_3mo": 0,
       "pay_tier": "high",
-      "conversion_month": "2026-09"
+      "conversion_month": "2026-10"
     },
     {
       "id": "tammi_loper",
@@ -7118,14 +7141,8 @@
       "availability_timezone": "America/New_York",
       "event_type_uuid": null,
       "range": {
-        "today": "2026-09-30",
+        "today": "2026-10-01",
         "days": [
-          {
-            "date": "2026-09-30",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-10-01",
             "status": "unavailable",
@@ -8034,6 +8051,12 @@
               }
             ],
             "invitee_events": []
+          },
+          {
+            "date": "2026-11-14",
+            "status": "unavailable",
+            "spots": [],
+            "invitee_events": []
           }
         ]
       },
@@ -8041,10 +8064,10 @@
       "skip_reason": null,
       "airtable_record_id": "rec9H4gBx3QjyMLgw",
       "conversion_count": 0,
-      "conversion_last_month": 1,
-      "conversion_3mo": 2,
+      "conversion_last_month": 0,
+      "conversion_3mo": 1,
       "pay_tier": "high",
-      "conversion_month": "2026-09"
+      "conversion_month": "2026-10"
     },
     {
       "id": "tanya_scott",
@@ -8056,14 +8079,8 @@
       "availability_timezone": "America/Chicago",
       "event_type_uuid": null,
       "range": {
-        "today": "2026-09-30",
+        "today": "2026-10-01",
         "days": [
-          {
-            "date": "2026-09-30",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-10-01",
             "status": "unavailable",
@@ -9013,6 +9030,12 @@
             "status": "unavailable",
             "spots": [],
             "invitee_events": []
+          },
+          {
+            "date": "2026-11-14",
+            "status": "unavailable",
+            "spots": [],
+            "invitee_events": []
           }
         ]
       },
@@ -9023,7 +9046,7 @@
       "conversion_last_month": 0,
       "conversion_3mo": 0,
       "pay_tier": "low",
-      "conversion_month": "2026-09"
+      "conversion_month": "2026-10"
     },
     {
       "id": "neela_pirwitz",
@@ -10997,10 +11020,10 @@
       "lookup_name": "30 Minute FREE Discovery Session",
       "airtable_record_id": "recXjBhaXUD3Zu9xH",
       "conversion_count": 1,
-      "conversion_last_month": 0,
-      "conversion_3mo": 1,
+      "conversion_last_month": 1,
+      "conversion_3mo": 2,
       "pay_tier": "high",
-      "conversion_month": "2026-09"
+      "conversion_month": "2026-10"
     },
     {
       "id": "yacine_nedjam",
@@ -11018,46 +11041,6 @@
             "date": "2026-10-01",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-10-01T10:00:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-01T10:30:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-01T11:00:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-01T11:30:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-01T12:00:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-01T12:30:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-01T13:00:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-01T13:30:00+02:00",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-10-01T14:00:00+02:00",
@@ -14116,60 +14099,26 @@
       "event_type_slug": "30min",
       "lookup_name": "30 Minute Meeting",
       "airtable_record_id": "recA9xC0KWXwwZjsX",
-      "conversion_count": 1,
-      "conversion_last_month": 0,
+      "conversion_count": 0,
+      "conversion_last_month": 1,
       "conversion_3mo": 1,
       "pay_tier": "low",
-      "conversion_month": "2026-09"
+      "conversion_month": "2026-10"
     }
   ],
   "conversions": {
-    "month": "2026-09",
+    "month": "2026-10",
     "timezone": "America/Los_Angeles",
-    "generated_at": "2026-10-01T03:36:03Z",
+    "generated_at": "2026-10-01T07:37:05Z",
     "definition": "Selected by Coachee this / last / trailing 3 calendar months (all sources)",
     "counts": [
-      {
-        "name": "Denise Foss",
-        "airtable_record_id": "recsse6OHYIt624QR",
-        "conversion_count": 3,
-        "conversion_last_month": 1,
-        "conversion_3mo": 5,
-        "pay_tier": "high",
-        "sources": {
-          "Thumbtack": 1,
-          "Job-Halo": 2
-        }
-      },
-      {
-        "name": "Annette Lagunes",
-        "airtable_record_id": "reckHi2iLQw8tGr5L",
-        "conversion_count": 2,
-        "conversion_last_month": 1,
-        "conversion_3mo": 3,
-        "pay_tier": "high",
-        "sources": {
-          "Thumbtack": 2
-        }
-      },
       {
         "name": "Neela Pirwitz",
         "airtable_record_id": "recXjBhaXUD3Zu9xH",
         "conversion_count": 1,
-        "conversion_last_month": 0,
-        "conversion_3mo": 1,
+        "conversion_last_month": 1,
+        "conversion_3mo": 2,
         "pay_tier": "high",
-        "sources": {
-          "Job-Halo": 1
-        }
-      },
-      {
-        "name": "Yacine Nedjam",
-        "airtable_record_id": "recA9xC0KWXwwZjsX",
-        "conversion_count": 1,
-        "conversion_last_month": 0,
-        "conversion_3mo": 1,
-        "pay_tier": "low",
         "sources": {
           "Job-Halo": 1
         }
