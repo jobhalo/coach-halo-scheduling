@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-08T12:10:18Z",
+  "generated_at": "2026-10-08T16:11:02Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -26,26 +26,6 @@
             "date": "2026-10-09",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-10-09T09:00:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-09T09:30:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-09T11:30:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-09T12:00:00-04:00",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-10-09T16:30:00-04:00",
@@ -2687,16 +2667,6 @@
             "date": "2026-10-08",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-10-08T12:00:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-08T12:30:00-05:00",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-10-08T16:00:00-05:00",
@@ -12940,7 +12910,7 @@
   "conversions": {
     "month": "2026-10",
     "timezone": "America/Los_Angeles",
-    "generated_at": "2026-10-08T12:10:57Z",
+    "generated_at": "2026-10-08T16:11:39Z",
     "definition": "Selected by Coachee this / last / trailing 3 calendar months (all sources)",
     "counts": [
       {
