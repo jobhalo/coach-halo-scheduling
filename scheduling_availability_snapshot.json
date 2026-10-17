@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-17T11:18:26Z",
+  "generated_at": "2026-10-17T15:19:09Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -1334,7 +1334,7 @@
       "conversion_count": 0,
       "conversion_last_month": 3,
       "conversion_3mo": 4,
-      "pay_tier": "high",
+      "pay_tier": "low",
       "conversion_month": "2026-10"
     },
     {
@@ -2354,7 +2354,7 @@
       "conversion_count": 1,
       "conversion_last_month": 0,
       "conversion_3mo": 1,
-      "pay_tier": "high",
+      "pay_tier": "low",
       "conversion_month": "2026-10"
     },
     {
@@ -2802,19 +2802,8 @@
         "days": [
           {
             "date": "2026-10-17",
-            "status": "available",
-            "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-10-17T10:30:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-17T11:00:00-05:00",
-                "invitees_remaining": 1
-              }
-            ],
+            "status": "unavailable",
+            "spots": [],
             "invitee_events": []
           },
           {
@@ -4617,7 +4606,7 @@
       "conversion_count": 0,
       "conversion_last_month": 2,
       "conversion_3mo": 3,
-      "pay_tier": "high",
+      "pay_tier": "low",
       "conversion_month": "2026-10"
     },
     {
@@ -4642,31 +4631,6 @@
             "date": "2026-10-18",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-10-18T08:30:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-18T08:55:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-18T09:20:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-18T09:45:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-18T10:10:00-05:00",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-10-18T10:35:00-05:00",
@@ -5992,14 +5956,8 @@
           },
           {
             "date": "2026-10-18",
-            "status": "available",
-            "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-10-18T08:00+02:00",
-                "invitees_remaining": 1
-              }
-            ],
+            "status": "unavailable",
+            "spots": [],
             "invitee_events": []
           },
           {
@@ -7046,7 +7004,7 @@
       "conversion_count": 0,
       "conversion_last_month": 0,
       "conversion_3mo": 0,
-      "pay_tier": "high",
+      "pay_tier": "low",
       "conversion_month": "2026-10"
     },
     {
@@ -7721,86 +7679,6 @@
             "date": "2026-10-20",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-10-20T13:30:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-20T13:45:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-20T14:00:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-20T14:15:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-20T14:30:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-20T14:45:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-20T15:00:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-20T15:15:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-20T15:30:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-20T15:45:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-20T16:00:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-20T16:15:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-20T16:30:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-20T16:45:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-20T17:00:00+02:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-20T17:15:00+02:00",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-10-20T17:30:00+02:00",
@@ -9594,7 +9472,7 @@
       "conversion_count": 1,
       "conversion_last_month": 1,
       "conversion_3mo": 2,
-      "pay_tier": "high",
+      "pay_tier": "low",
       "conversion_month": "2026-10"
     },
     {
@@ -12731,7 +12609,7 @@
   "conversions": {
     "month": "2026-10",
     "timezone": "America/Los_Angeles",
-    "generated_at": "2026-10-17T11:19:04Z",
+    "generated_at": "2026-10-17T15:20:38Z",
     "definition": "Selected by Coachee this / last / trailing 3 calendar months (all sources)",
     "counts": [
       {
@@ -12762,7 +12640,7 @@
         "conversion_count": 1,
         "conversion_last_month": 0,
         "conversion_3mo": 1,
-        "pay_tier": "high",
+        "pay_tier": "low",
         "sources": {
           "Thumbtack": 1
         }
@@ -12773,22 +12651,22 @@
         "conversion_count": 1,
         "conversion_last_month": 1,
         "conversion_3mo": 2,
-        "pay_tier": "high",
+        "pay_tier": "low",
         "sources": {
           "Job-Halo": 1
         }
       }
     ],
     "pay_by_record_id": {
-      "rec1m3Xu6scfMDz1E": "high",
+      "rec1m3Xu6scfMDz1E": "low",
       "recA9xC0KWXwwZjsX": "low",
-      "recMugaEC2yqI2A0s": "high",
-      "recXjBhaXUD3Zu9xH": "high",
+      "recMugaEC2yqI2A0s": "low",
+      "recXjBhaXUD3Zu9xH": "low",
       "recaXhJsxefzwMxng": "low",
       "recjPdC4vlEjJ96Xh": "low",
-      "reckHi2iLQw8tGr5L": "high",
+      "reckHi2iLQw8tGr5L": "low",
       "recknhqT4WSlXYkeE": "low",
-      "recsse6OHYIt624QR": "high"
+      "recsse6OHYIt624QR": "low"
     },
     "unmatched": {}
   }
