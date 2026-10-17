@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-16T23:14:02Z",
+  "generated_at": "2026-10-17T03:14:52Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -1357,29 +1357,8 @@
           },
           {
             "date": "2026-10-19",
-            "status": "available",
-            "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-10-19T14:30:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-19T15:00:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-19T15:30:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-19T16:00:00-04:00",
-                "invitees_remaining": 1
-              }
-            ],
+            "status": "unavailable",
+            "spots": [],
             "invitee_events": []
           },
           {
@@ -2372,9 +2351,9 @@
       "event_type_slug": "free-discovery-session",
       "lookup_name": "Discovery Session",
       "airtable_record_id": "recMugaEC2yqI2A0s",
-      "conversion_count": 0,
+      "conversion_count": 1,
       "conversion_last_month": 0,
-      "conversion_3mo": 0,
+      "conversion_3mo": 1,
       "pay_tier": "high",
       "conversion_month": "2026-10"
     },
@@ -12749,7 +12728,7 @@
   "conversions": {
     "month": "2026-10",
     "timezone": "America/Los_Angeles",
-    "generated_at": "2026-10-16T23:14:47Z",
+    "generated_at": "2026-10-17T03:15:33Z",
     "definition": "Selected by Coachee this / last / trailing 3 calendar months (all sources)",
     "counts": [
       {
@@ -12772,6 +12751,17 @@
         "pay_tier": "low",
         "sources": {
           "Job-Halo": 2
+        }
+      },
+      {
+        "name": "Jake Randall",
+        "airtable_record_id": "recMugaEC2yqI2A0s",
+        "conversion_count": 1,
+        "conversion_last_month": 0,
+        "conversion_3mo": 1,
+        "pay_tier": "high",
+        "sources": {
+          "Thumbtack": 1
         }
       },
       {
