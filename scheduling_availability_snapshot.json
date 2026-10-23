@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-23T18:10:57Z",
+  "generated_at": "2026-10-23T22:11:37Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -28,11 +28,6 @@
             "spots": [
               {
                 "status": "available",
-                "start_time": "2026-10-26T11:00:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
                 "start_time": "2026-10-26T11:30:00-04:00",
                 "invitees_remaining": 1
               },
@@ -54,16 +49,6 @@
               {
                 "status": "available",
                 "start_time": "2026-10-26T13:30:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-26T14:00:00-04:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-26T14:30:00-04:00",
                 "invitees_remaining": 1
               },
               {
@@ -1182,6 +1167,26 @@
                 "status": "available",
                 "start_time": "2026-11-13T08:30:00-05:00",
                 "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-11-13T15:00:00-05:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-11-13T15:30:00-05:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-11-13T16:30:00-05:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-11-13T17:00:00-05:00",
+                "invitees_remaining": 1
               }
             ],
             "invitee_events": []
@@ -2299,8 +2304,34 @@
           },
           {
             "date": "2026-10-26",
-            "status": "unavailable",
-            "spots": [],
+            "status": "available",
+            "spots": [
+              {
+                "status": "available",
+                "start_time": "2026-10-26T13:30:00-04:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-10-26T14:00:00-04:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-10-26T14:30:00-04:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-10-26T15:00:00-04:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-10-26T15:30:00-04:00",
+                "invitees_remaining": 1
+              }
+            ],
             "invitee_events": []
           },
           {
@@ -5662,14 +5693,8 @@
       "availability_timezone": "Europe/Berlin",
       "event_type_uuid": null,
       "range": {
-        "today": "2026-10-23",
+        "today": "2026-10-24",
         "days": [
-          {
-            "date": "2026-10-23",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-10-24",
             "status": "unavailable",
@@ -6711,6 +6736,28 @@
               }
             ],
             "invitee_events": []
+          },
+          {
+            "date": "2026-12-07",
+            "status": "available",
+            "spots": [
+              {
+                "status": "available",
+                "start_time": "2026-12-07T06:00+01:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-07T07:00+01:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-07T08:00+01:00",
+                "invitees_remaining": 1
+              }
+            ],
+            "invitee_events": []
           }
         ]
       },
@@ -6733,7 +6780,7 @@
       "availability_timezone": "Europe/Berlin",
       "event_type_uuid": "EAG2BBSUA4QM3U6H",
       "range": {
-        "today": "2026-10-23",
+        "today": "2026-10-24",
         "days": [
           {
             "date": "2026-10-27",
@@ -8679,6 +8726,12 @@
             "status": "unavailable",
             "spots": [],
             "invitee_events": []
+          },
+          {
+            "date": "2026-12-08",
+            "status": "unavailable",
+            "spots": [],
+            "invitee_events": []
           }
         ]
       },
@@ -8704,14 +8757,8 @@
       "availability_timezone": "Europe/Berlin",
       "event_type_uuid": "18e520f9-f924-43d5-a85b-8930703e1e68",
       "range": {
-        "today": "2026-10-23",
+        "today": "2026-10-24",
         "days": [
-          {
-            "date": "2026-10-23",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-10-26",
             "status": "available",
@@ -8836,11 +8883,6 @@
               {
                 "status": "available",
                 "start_time": "2026-10-27T11:30:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-10-27T12:00:00+01:00",
                 "invitees_remaining": 1
               },
               {
@@ -11713,6 +11755,103 @@
               }
             ],
             "invitee_events": []
+          },
+          {
+            "date": "2026-12-08",
+            "status": "available",
+            "spots": [
+              {
+                "status": "available",
+                "start_time": "2026-12-08T09:00:00+01:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-08T09:30:00+01:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-08T10:00:00+01:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-08T10:30:00+01:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-08T11:00:00+01:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-08T11:30:00+01:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-08T12:00:00+01:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-08T12:30:00+01:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-08T13:00:00+01:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-08T13:30:00+01:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-08T14:00:00+01:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-08T14:30:00+01:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-08T15:00:00+01:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-08T15:30:00+01:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-08T16:00:00+01:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-08T16:30:00+01:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-08T17:00:00+01:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-08T17:30:00+01:00",
+                "invitees_remaining": 1
+              }
+            ],
+            "invitee_events": []
           }
         ]
       },
@@ -11732,7 +11871,7 @@
   "conversions": {
     "month": "2026-10",
     "timezone": "America/Los_Angeles",
-    "generated_at": "2026-10-23T18:11:31Z",
+    "generated_at": "2026-10-23T22:12:15Z",
     "definition": "Selected by Coachee this / last / trailing 3 calendar months (all sources)",
     "counts": [
       {
