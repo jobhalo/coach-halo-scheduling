@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-02T23:27:25Z",
+  "generated_at": "2026-11-03T03:28:04Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -1120,6 +1120,16 @@
               {
                 "status": "available",
                 "start_time": "2026-11-23T18:00:00-05:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-11-23T18:30:00-05:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-11-23T19:00:00-05:00",
                 "invitees_remaining": 1
               }
             ],
@@ -2652,11 +2662,6 @@
             "date": "2026-12-02",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-12-02T13:00:00-05:00",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-12-02T15:30:00-05:00",
@@ -4972,24 +4977,8 @@
           },
           {
             "date": "2026-11-03",
-            "status": "available",
-            "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-11-03T19:30:00-06:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-11-03T19:55:00-06:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-11-03T20:20:00-06:00",
-                "invitees_remaining": 1
-              }
-            ],
+            "status": "unavailable",
+            "spots": [],
             "invitee_events": []
           },
           {
@@ -12567,7 +12556,7 @@
   "conversions": {
     "month": "2026-11",
     "timezone": "America/Los_Angeles",
-    "generated_at": "2026-11-02T23:27:59Z",
+    "generated_at": "2026-11-03T03:28:39Z",
     "definition": "Selected by Coachee this / last / trailing 3 calendar months (all sources)",
     "counts": [],
     "pay_by_record_id": {
