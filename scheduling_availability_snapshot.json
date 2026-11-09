@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-09T03:57:52Z",
+  "generated_at": "2026-11-09T07:58:35Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -14,7 +14,7 @@
       "availability_timezone": "America/New_York",
       "event_type_uuid": "3e761528-3756-4faa-8421-d22c665d61d9",
       "range": {
-        "today": "2026-11-08",
+        "today": "2026-11-09",
         "days": [
           {
             "date": "2026-11-09",
@@ -984,6 +984,12 @@
             "status": "unavailable",
             "spots": [],
             "invitee_events": []
+          },
+          {
+            "date": "2026-12-24",
+            "status": "unavailable",
+            "spots": [],
+            "invitee_events": []
           }
         ]
       },
@@ -1009,7 +1015,7 @@
       "availability_timezone": "America/New_York",
       "event_type_uuid": "DCCYVLE7PUGYNL3F",
       "range": {
-        "today": "2026-11-08",
+        "today": "2026-11-09",
         "days": [
           {
             "date": "2026-11-09",
@@ -2077,6 +2083,12 @@
             "status": "unavailable",
             "spots": [],
             "invitee_events": []
+          },
+          {
+            "date": "2026-12-24",
+            "status": "unavailable",
+            "spots": [],
+            "invitee_events": []
           }
         ]
       },
@@ -2102,7 +2114,7 @@
       "availability_timezone": "America/New_York",
       "event_type_uuid": "EAHZC4HPKOE4MKD4",
       "range": {
-        "today": "2026-11-08",
+        "today": "2026-11-09",
         "days": [
           {
             "date": "2026-11-09",
@@ -2435,6 +2447,12 @@
               }
             ],
             "invitee_events": []
+          },
+          {
+            "date": "2026-12-24",
+            "status": "unavailable",
+            "spots": [],
+            "invitee_events": []
           }
         ]
       },
@@ -2460,7 +2478,7 @@
       "availability_timezone": "America/Chicago",
       "event_type_uuid": "c6fa0b28-f73e-4b93-9f5c-41b2150319ad",
       "range": {
-        "today": "2026-11-08",
+        "today": "2026-11-09",
         "days": [
           {
             "date": "2026-11-09",
@@ -4556,6 +4574,12 @@
               }
             ],
             "invitee_events": []
+          },
+          {
+            "date": "2026-12-24",
+            "status": "unavailable",
+            "spots": [],
+            "invitee_events": []
           }
         ]
       },
@@ -4581,14 +4605,8 @@
       "availability_timezone": "America/Chicago",
       "event_type_uuid": null,
       "range": {
-        "today": "2026-11-08",
+        "today": "2026-11-09",
         "days": [
-          {
-            "date": "2026-11-08",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-11-09",
             "status": "unavailable",
@@ -5866,6 +5884,28 @@
               {
                 "status": "available",
                 "start_time": "2026-12-22T20:20:00-06:00",
+                "invitees_remaining": 1
+              }
+            ],
+            "invitee_events": []
+          },
+          {
+            "date": "2026-12-23",
+            "status": "available",
+            "spots": [
+              {
+                "status": "available",
+                "start_time": "2026-12-23T19:30:00-06:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-23T19:55:00-06:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-23T20:20:00-06:00",
                 "invitees_remaining": 1
               }
             ],
@@ -8853,51 +8893,6 @@
             "date": "2026-11-09",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-11-09T09:00:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-11-09T09:30:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-11-09T10:00:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-11-09T10:30:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-11-09T11:00:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-11-09T11:30:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-11-09T12:00:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-11-09T12:30:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-11-09T13:00:00+01:00",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-11-09T13:30:00+01:00",
@@ -12165,7 +12160,7 @@
   "conversions": {
     "month": "2026-11",
     "timezone": "America/Los_Angeles",
-    "generated_at": "2026-11-09T03:58:27Z",
+    "generated_at": "2026-11-09T07:59:10Z",
     "definition": "Selected by Coachee this / last / trailing 3 calendar months (all sources)",
     "counts": [],
     "pay_by_record_id": {
