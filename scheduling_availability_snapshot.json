@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-13T02:54:18Z",
+  "generated_at": "2026-11-13T06:55:09Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -14,14 +14,8 @@
       "availability_timezone": "America/New_York",
       "event_type_uuid": "3e761528-3756-4faa-8421-d22c665d61d9",
       "range": {
-        "today": "2026-11-12",
+        "today": "2026-11-13",
         "days": [
-          {
-            "date": "2026-11-12",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-11-13",
             "status": "unavailable",
@@ -1134,6 +1128,12 @@
             "status": "unavailable",
             "spots": [],
             "invitee_events": []
+          },
+          {
+            "date": "2026-12-28",
+            "status": "unavailable",
+            "spots": [],
+            "invitee_events": []
           }
         ]
       },
@@ -1155,7 +1155,7 @@
       "provider": "calendly",
       "booking_url": "https://calendly.com/wildfreedomfinancialcoaching/free-discovery-session",
       "calendly_url": "https://calendly.com/wildfreedomfinancialcoaching/free-discovery-session",
-      "error": "400 Client Error: Bad Request for url: https://calendly.com/api/booking/event_types/DCCYVLE7PUGYNL3F/calendar/range?timezone=America%2FNew_York&range_start=2026-11-12T00%3A00%3A00.000000-05%3A00&range_end=2026-12-17T00%3A00%3A00.000000-05%3A00",
+      "error": "400 Client Error: Bad Request for url: https://calendly.com/api/booking/event_types/DCCYVLE7PUGYNL3F/calendar/range?timezone=America%2FNew_York&range_start=2026-11-13T00%3A00%3A00.000000-05%3A00&range_end=2026-12-18T00%3A00%3A00.000000-05%3A00",
       "availability_timezone": "America/New_York",
       "event_type_uuid": "DCCYVLE7PUGYNL3F",
       "range": null,
@@ -1181,14 +1181,8 @@
       "availability_timezone": "America/New_York",
       "event_type_uuid": "EAHZC4HPKOE4MKD4",
       "range": {
-        "today": "2026-11-12",
+        "today": "2026-11-13",
         "days": [
-          {
-            "date": "2026-11-12",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-11-13",
             "status": "unavailable",
@@ -1476,6 +1470,12 @@
             "status": "unavailable",
             "spots": [],
             "invitee_events": []
+          },
+          {
+            "date": "2026-12-28",
+            "status": "unavailable",
+            "spots": [],
+            "invitee_events": []
           }
         ]
       },
@@ -1501,14 +1501,8 @@
       "availability_timezone": "America/Chicago",
       "event_type_uuid": "c6fa0b28-f73e-4b93-9f5c-41b2150319ad",
       "range": {
-        "today": "2026-11-12",
+        "today": "2026-11-13",
         "days": [
-          {
-            "date": "2026-11-12",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-11-13",
             "status": "available",
@@ -3322,6 +3316,93 @@
             "status": "unavailable",
             "spots": [],
             "invitee_events": []
+          },
+          {
+            "date": "2026-12-28",
+            "status": "available",
+            "spots": [
+              {
+                "status": "available",
+                "start_time": "2026-12-28T08:30:00-06:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-28T09:00:00-06:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-28T09:30:00-06:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-28T10:00:00-06:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-28T10:30:00-06:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-28T11:00:00-06:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-28T11:30:00-06:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-28T12:00:00-06:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-28T12:30:00-06:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-28T13:00:00-06:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-28T13:30:00-06:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-28T16:00:00-06:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-28T16:30:00-06:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-28T17:00:00-06:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-28T17:30:00-06:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-28T18:00:00-06:00",
+                "invitees_remaining": 1
+              }
+            ],
+            "invitee_events": []
           }
         ]
       },
@@ -3347,14 +3428,8 @@
       "availability_timezone": "America/Chicago",
       "event_type_uuid": null,
       "range": {
-        "today": "2026-11-12",
+        "today": "2026-11-13",
         "days": [
-          {
-            "date": "2026-11-12",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-11-13",
             "status": "unavailable",
@@ -4657,6 +4732,53 @@
               {
                 "status": "available",
                 "start_time": "2026-12-26T11:25:00-06:00",
+                "invitees_remaining": 1
+              }
+            ],
+            "invitee_events": []
+          },
+          {
+            "date": "2026-12-27",
+            "status": "available",
+            "spots": [
+              {
+                "status": "available",
+                "start_time": "2026-12-27T08:30:00-06:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-27T08:55:00-06:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-27T09:20:00-06:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-27T09:45:00-06:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-27T10:10:00-06:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-27T10:35:00-06:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-27T11:00:00-06:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-27T11:25:00-06:00",
                 "invitees_remaining": 1
               }
             ],
@@ -7784,36 +7906,6 @@
             "spots": [
               {
                 "status": "available",
-                "start_time": "2026-11-13T09:00:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-11-13T09:30:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-11-13T10:00:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-11-13T10:30:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-11-13T11:00:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-11-13T11:30:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
                 "start_time": "2026-11-13T12:00:00+01:00",
                 "invitees_remaining": 1
               },
@@ -10900,7 +10992,7 @@
   "conversions": {
     "month": "2026-11",
     "timezone": "America/Los_Angeles",
-    "generated_at": "2026-11-13T02:55:01Z",
+    "generated_at": "2026-11-13T06:56:24Z",
     "definition": "Selected by Coachee this / last / trailing 3 calendar months (all sources)",
     "counts": [],
     "pay_by_record_id": {
