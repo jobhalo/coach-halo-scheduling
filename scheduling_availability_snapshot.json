@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-19T14:10:25Z",
+  "generated_at": "2026-11-19T18:11:13Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -875,11 +875,6 @@
               },
               {
                 "status": "available",
-                "start_time": "2026-12-08T14:00:00-05:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
                 "start_time": "2026-12-08T14:30:00-05:00",
                 "invitees_remaining": 1
               },
@@ -985,8 +980,39 @@
           },
           {
             "date": "2026-12-10",
-            "status": "unavailable",
-            "spots": [],
+            "status": "available",
+            "spots": [
+              {
+                "status": "available",
+                "start_time": "2026-12-10T10:30:00-05:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-10T11:00:00-05:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-10T11:30:00-05:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-10T12:00:00-05:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-10T12:30:00-05:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2026-12-10T13:00:00-05:00",
+                "invitees_remaining": 1
+              }
+            ],
             "invitee_events": []
           },
           {
@@ -2211,16 +2237,6 @@
             "date": "2026-11-19",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-11-19T12:30:00-06:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-11-19T16:00:00-06:00",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-11-19T16:30:00-06:00",
@@ -3950,11 +3966,6 @@
             "date": "2026-11-20",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-11-20T12:00:00-06:00",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-11-20T12:25:00-06:00",
@@ -11411,7 +11422,7 @@
   "conversions": {
     "month": "2026-11",
     "timezone": "America/Los_Angeles",
-    "generated_at": "2026-11-19T14:11:05Z",
+    "generated_at": "2026-11-19T18:11:45Z",
     "definition": "Selected by Coachee this / last / trailing 3 calendar months (all sources)",
     "counts": [
       {
