@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-21T06:18:25Z",
+  "generated_at": "2026-11-21T10:19:04Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -6405,36 +6405,6 @@
             "spots": [
               {
                 "status": "available",
-                "start_time": "2026-11-24T10:00:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-11-24T10:15:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-11-24T10:30:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-11-24T10:45:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-11-24T11:00:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-11-24T11:15:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
                 "start_time": "2026-11-24T11:30:00+01:00",
                 "invitees_remaining": 1
               },
@@ -11528,7 +11498,7 @@
   "conversions": {
     "month": "2026-11",
     "timezone": "America/Los_Angeles",
-    "generated_at": "2026-11-21T06:18:59Z",
+    "generated_at": "2026-11-21T10:19:42Z",
     "definition": "Selected by Coachee this / last / trailing 3 calendar months (all sources)",
     "counts": [
       {
