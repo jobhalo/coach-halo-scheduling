@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-24T22:33:39Z",
+  "generated_at": "2026-11-25T02:34:19Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -4330,24 +4330,8 @@
           },
           {
             "date": "2026-11-25",
-            "status": "available",
-            "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-11-25T19:30:00-06:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-11-25T19:55:00-06:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-11-25T20:20:00-06:00",
-                "invitees_remaining": 1
-              }
-            ],
+            "status": "unavailable",
+            "spots": [],
             "invitee_events": []
           },
           {
@@ -5647,14 +5631,8 @@
       "availability_timezone": "Europe/Berlin",
       "event_type_uuid": null,
       "range": {
-        "today": "2026-11-24",
+        "today": "2026-11-25",
         "days": [
-          {
-            "date": "2026-11-24",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-11-25",
             "status": "unavailable",
@@ -6711,6 +6689,28 @@
               }
             ],
             "invitee_events": []
+          },
+          {
+            "date": "2027-01-08",
+            "status": "available",
+            "spots": [
+              {
+                "status": "available",
+                "start_time": "2027-01-08T06:00+01:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2027-01-08T07:00+01:00",
+                "invitees_remaining": 1
+              },
+              {
+                "status": "available",
+                "start_time": "2027-01-08T08:00+01:00",
+                "invitees_remaining": 1
+              }
+            ],
+            "invitee_events": []
           }
         ]
       },
@@ -6733,14 +6733,8 @@
       "availability_timezone": "Europe/Berlin",
       "event_type_uuid": "EAG2BBSUA4QM3U6H",
       "range": {
-        "today": "2026-11-24",
+        "today": "2026-11-25",
         "days": [
-          {
-            "date": "2026-11-24",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-11-25",
             "status": "unavailable",
@@ -8757,14 +8751,8 @@
       "availability_timezone": "Europe/Berlin",
       "event_type_uuid": "18e520f9-f924-43d5-a85b-8930703e1e68",
       "range": {
-        "today": "2026-11-24",
+        "today": "2026-11-25",
         "days": [
-          {
-            "date": "2026-11-24",
-            "status": "unavailable",
-            "spots": [],
-            "invitee_events": []
-          },
           {
             "date": "2026-11-25",
             "status": "available",
@@ -11979,7 +11967,7 @@
   "conversions": {
     "month": "2026-11",
     "timezone": "America/Los_Angeles",
-    "generated_at": "2026-11-24T22:34:13Z",
+    "generated_at": "2026-11-25T02:34:53Z",
     "definition": "Selected by Coachee this / last / trailing 3 calendar months (all sources)",
     "counts": [
       {
