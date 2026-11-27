@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-27T06:43:10Z",
+  "generated_at": "2026-11-27T10:43:51Z",
   "days_requested": 45,
   "source_config": "/Users/joaquinhernandez/Documents/RemoteRocketship Jobs and Linkedin Enrichment/scheduling_coaches.json",
   "coaches": [
@@ -2538,11 +2538,6 @@
             "date": "2026-11-27",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-11-27T08:30:00-06:00",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-11-27T09:00:00-06:00",
@@ -7192,41 +7187,6 @@
               },
               {
                 "status": "available",
-                "start_time": "2026-12-02T14:30:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-12-02T14:45:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-12-02T15:00:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-12-02T15:15:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-12-02T15:30:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-12-02T15:45:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-12-02T16:00:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
                 "start_time": "2026-12-02T16:15:00+01:00",
                 "invitees_remaining": 1
               },
@@ -8944,46 +8904,6 @@
             "date": "2026-11-27",
             "status": "available",
             "spots": [
-              {
-                "status": "available",
-                "start_time": "2026-11-27T12:00:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-11-27T12:30:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-11-27T13:00:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-11-27T13:30:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-11-27T14:00:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-11-27T14:30:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-11-27T15:00:00+01:00",
-                "invitees_remaining": 1
-              },
-              {
-                "status": "available",
-                "start_time": "2026-11-27T15:30:00+01:00",
-                "invitees_remaining": 1
-              },
               {
                 "status": "available",
                 "start_time": "2026-11-27T16:00:00+01:00",
@@ -12032,7 +11952,7 @@
   "conversions": {
     "month": "2026-11",
     "timezone": "America/Los_Angeles",
-    "generated_at": "2026-11-27T06:43:46Z",
+    "generated_at": "2026-11-27T10:44:31Z",
     "definition": "Selected by Coachee this / last / trailing 3 calendar months (all sources)",
     "counts": [
       {
